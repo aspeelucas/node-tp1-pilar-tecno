@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Sirius",
+    "type": "Estrella binaria",
+    "distancia": "8.6 años luz",
+    "mass": "2.02 masas solares",
+    "radius": "1.711 radios solares",
+    "temperature": "9,940 K",
+    "luminosity": "25.4 luminosidades solares",
+    "age": "200-300 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+  },
+  {
+    "id": 2,
+    "name": "Vega",
+    "type": "Estrella de la Secuencia Principal ",
+    "distancia": "25 años luz",
+    "mass": "2.135 masas solares",
+    "radius": "2.362 radios solares",
+    "temperature": "9,527 K",
+    "luminosity": "40.12 luminosidades solares",
+    "age": "450 millones de años",
+    "composition": {
+      "hydrogen": "73%",
+      "helium": "25%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Vega es una estrella blanca de la secuencia principal y una de las más brillantes en el cielo del hemisferio norte. Tiene una temperatura elevada y es conocida por su rápido giro."
+  },
+  {
+    "id": 3,
+    "name": "Aldebarán",
+    "type": "Estrella gigante roja ",
+    "distancia": "65 años luz",
+    "mass": "1.7 masas solares",
+    "radius": "44.2 radios solares",
+    "temperature": "3,910 K",
+    "luminosity": "425 luminosidades solares",
+    "age": "1,100 millones de años",
+    "composition": {
+      "hydrogen": "60%",
+      "helium": "35%",
+      "otros_elementos": "5%"
+    },
+    "stellar_history": "Aldebarán es una gigante roja en la constelación de Tauro. Es una de las estrellas más brillantes en el cielo y se encuentra en una etapa avanzada de su evolución."
+  },
+  {
+    "id": 4,
+    "name": "Betelgeuse",
+    "type": "Supergigante roja ",
+    "distancia": "642 años luz",
+    "mass": "11-20 masas solares",
+    "radius": "955 radios solares",
+    "temperature": "3,550 K",
+    "luminosity": "126,000 luminosidades solares",
+    "age": "8-8.5 millones de años",
+    "composition": {
+      "hydrogen": "85%",
+      "helium": "13%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Betelgeuse es una supergigante roja en la constelación de Orión. Es una de las estrellas más grandes conocidas y está en una fase avanzada de su evolución, eventualmente explotará como una supernova."
+  },
+  {
+    "id": 5,
+    "name": "Antares",
+    "type": "Supergigante roja ",
+    "distancia": "550 años luz",
+    "mass": "15-18 masas solares",
+    "radius": "680 radios solares",
+    "temperature": "3,500 K",
+    "luminosity": "65,000 luminosidades solares",
+    "age": "12 millones de años",
+    "composition": {
+      "hydrogen": "77%",
+      "helium": "20%",
+      "otros_elementos": "3%"
+    },
+    "stellar_history": "Antares es una supergigante roja en la constelación de Escorpio. Es una de las estrellas más brillantes en el cielo y está en una fase avanzada de su evolución."
+  },
+  {
+    "id": 6,
+    "name": "Proxima Centauri",
+    "type": "Enana roja ",
+    "distancia": "4.24 años luz",
+    "mass": "0.123 masas solares",
+    "radius": "0.141 radios solares",
+    "temperature": "2,862 K",
+    "luminosity": "0.0017 luminosidades solares",
+    "age": "4.85 mil millones de años",
+    "composition": {
+      "hydrogen": "76%",
+      "helium": "23%",
+      "otros_elementos": "1%"
+    },
+    "stellar_history": "Proxima Centauri es una enana roja y la estrella más cercana al sistema solar. Tiene una luminosidad muy baja y es parte del sistema estelar Alfa Centauri."
+  }
+]
