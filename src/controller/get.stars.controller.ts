@@ -8,5 +8,5 @@ export async function getStarsController (req:Request, res: Response) {
     if(type){
         variousStars = star.filter((estrella) => estrella.type.includes(type));
     }
-    res.status(200).json(variousStars);
+    return res.status(200).json(variousStars);
 }
